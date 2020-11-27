@@ -1,0 +1,16 @@
+{
+  "name": "playwright-tutorial",
+  "version": "1.0.0",
+  "description": "Microsoft Playwright tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Adilson Angelo",
+  "license": "ISC",
+  "devDependencies": {
+    "ffmpeg-static": "^4.2.7",
+    "playwright": "^1.5.2",
+    "playwright-video": "^2.4.0"
+  }
+}
